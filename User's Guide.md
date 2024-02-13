@@ -8,7 +8,8 @@ The data preparation phase was done using CRISP-DM (Cross-Industry Standard Proc
 - Choose the file format based on the format of your file. In the case of this prototype, the secondary file was saved as “Excel Workbook” format.
 - After retrieving the file from its source, the overview of the table is shown (Figure 2). It consists of demographic and academic data of the students. These data will be used to generate the visualization for student retention of the College of Information and Computing Sciences (CICS).
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.001.png)
+![Figure 1](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/70335fd3-4eef-4fbf-8ff2-d180b5c1e8c4)
+
 
 
 

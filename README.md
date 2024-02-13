@@ -10,6 +10,7 @@ The data preparation phase was done using CRISP-DM (Cross-Industry Standard Proc
 
 ![Figure 1](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/70335fd3-4eef-4fbf-8ff2-d180b5c1e8c4)
 
+Figure 1. Getting the data in Power BI
 
 
 
@@ -18,7 +19,9 @@ The data preparation phase was done using CRISP-DM (Cross-Industry Standard Proc
 
 
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.002.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.003.png)
+![Figure 2](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/3e831300-f167-4081-8db1-514291df3c08)
+
+Figure 2. Overview of the table in a sheet
 
 
 
@@ -27,11 +30,6 @@ The data preparation phase was done using CRISP-DM (Cross-Industry Standard Proc
 
 
 
-
-
-
-
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.004.png)
 
 **MODIFYING THE DATA**
 
@@ -39,26 +37,15 @@ The data preparation phase was done using CRISP-DM (Cross-Industry Standard Proc
 - You will then be directed to Power Query to commence the data cleaning.
 
 
+<img width="593" alt="Figure 3" src="https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/d92b2ea8-50ee-4ab5-932e-10959657d1b3">
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.005.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.006.png)
-
-
-
+Figure 3. Position of the "Transform Data" button in Power BI
 
 
+<img width="960" alt="Figure 4" src="https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/2e6a363e-5083-4a5c-bc7d-c38a21afbb1d">
 
+Figure 4. Some error values in the dataset
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.007.png)
-
-
-
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.008.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.009.png)
-
-
-
-
-
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.010.png)
 
 
 
@@ -70,19 +57,16 @@ The data preparation phase was done using CRISP-DM (Cross-Industry Standard Proc
 - The final dataset will then be loaded (shown in Figure 6) that will be used to conduct the exploratory analysis, and visualization of the data.
 
 
+<img width="504" alt="Figure 5" src="https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/b2ee065a-06af-4d0f-b7d3-f2593ca11e61">
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.011.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.012.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.013.png)
-
-
-
+Figure 5. Position of the "Close and Apply" button in Power Query
 
 
 
 
+![Figure 6](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/fae51317-1290-47bc-82de-97cf2bae83a5)
 
-
-
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.014.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.015.png)
+Figure 6. Loading the data in Power BI
 
 
 
@@ -94,12 +78,10 @@ There are three significant views in the Power BI environment. First is the repo
 
 
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.016.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.017.png)
 
+![Figure 7](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/4a14d6ca-0377-4e7c-a615-5fb1cb93798b)
 
-
-
-
+Figure 7. Report canvas in Power BI
 
 
 
@@ -108,10 +90,9 @@ Another is the table view (Figure 8) that displays the data in each entity/file.
 
 
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.018.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.019.png) 
+![Figure 8](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/f3da4488-0dfc-474c-9239-7bda7e7f3e47)
 
-
-
+Figure 8. Data warehouse in Power BI
 
 
 
@@ -123,17 +104,9 @@ Lastly is the model view that illustrates the relationship between entities (sho
 
 
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.020.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.021.png)
+![Figure 9](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/76b9d6b8-6344-4fab-bf71-906c5ee01a90)
 
-
-
-
-
-
-
-
-
-
+Figure 9. Entity Relationship Diagram (ERD) of student's data in Power BI
 
 
 
@@ -146,29 +119,23 @@ Lastly is the model view that illustrates the relationship between entities (sho
 Each page allows the user to filter the information that he/she wants to view. There are 2 ways to do this:
 
 - First is to click a specific category in a graph and it will eventually display the information related to it (like in Figure 10).
-- ![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.022.png)Second is to use the Search function available in each dashboard (for instance in Figure 11).  
+- Second is to use the Search function available in each dashboard (for instance in Figure 11).  
 
 
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.023.png)
+![Figure 10](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/98d6368e-2e80-41a7-984e-27e6f98e2862)
 
-
-
-
-
-
-
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.024.png)
+Figure 10. Filtering the data by clicking the graph
 
 
 
 
+![Figure 11](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/6fa99f5c-33cc-4858-84d4-9cac0a07bdb3)
+
+Figure 11. Filtering the data using the Search function
 
 
 
-
-
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.025.png)
 
 **MOVING TO OTHER PAGE IN THE EWS STUDENT RETENTION PROTOTYPE**
 
@@ -178,5 +145,6 @@ Power BI does not support single-click when going to another page. Thus, to do t
 
 
 
-![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.026.png)![](Aspose.Words.b5db2409-3b7e-46da-b120-af1a21996eda.027.png)
+![Figure 12](https://github.com/NinyaJD/SoftwareImpacts/assets/158118047/b2899692-73fc-4dba-bc68-5d2a25ca080a)
 
+Figure 12. Sample of using CTRL + click to move to another page
